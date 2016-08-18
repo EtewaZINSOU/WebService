@@ -1,0 +1,11 @@
+sports:
+    - { id: 1, name: Football }
+    - { id: 2, name: Equitation }
+    - { id: 3, name: Basket }
+    - { id: 4, name: HandBall }
+    - { id: 5, name: Volley }
+    - { id: 6, name: Ismael }
+    - { id: 7, name: Ismael }
+    - { id: 8, name: Ismael }
+    - { id: 9, name: Gilbert }
+    - { id: 10, name: Romain }
